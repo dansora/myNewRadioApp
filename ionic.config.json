@@ -1,0 +1,7 @@
+{
+  "name": "myNewRadioApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
